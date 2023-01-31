@@ -81,9 +81,9 @@ class Projects extends Component {
                 >
                   <i className="fa fa-github" aria-hidden="true" /> Github
                 </Button>
-                <Button raised accent ripple style={{ margin: "0 10px" }}>
+                {/* <Button raised accent ripple style={{ margin: "0 10px" }}>
                   <i className="fa fa-desktop" aria-hidden="true" /> Live Demo
-                </Button>
+                </Button> */}
               </CardActions>
               <CardMenu style={{ color: "#fff" }}>
                 <IconButton name="share" />
@@ -113,9 +113,7 @@ class Projects extends Component {
                 >
                   <i className="fa fa-github" aria-hidden="true" /> Github
                 </Button>
-                <Button raised accent ripple style={{ margin: "0 10px" }}>
-                  <i className="fa fa-desktop" aria-hidden="true" /> Live Demo
-                </Button>
+           
               </CardActions>
               <CardMenu style={{ color: "#fff" }}>
                 <IconButton name="share" />
@@ -146,9 +144,7 @@ class Projects extends Component {
                 >
                   <i className="fa fa-github" aria-hidden="true" /> Github
                 </Button>
-                <Button raised accent ripple style={{ margin: "0 10px" }}>
-                  <i className="fa fa-desktop" aria-hidden="true" /> Live Demo
-                </Button>
+             
               </CardActions>
               <CardMenu style={{ color: "#fff" }}>
                 <IconButton name="share" />
@@ -183,9 +179,7 @@ class Projects extends Component {
                 >
                   <i className="fa fa-github" aria-hidden="true" /> Github
                 </Button>
-                <Button raised accent ripple style={{ margin: "0 10px" }}>
-                  <i className="fa fa-desktop" aria-hidden="true" /> Live Demo
-                </Button>
+              
               </CardActions>
               <CardMenu style={{ color: "#fff" }}>
                 <IconButton name="share" />
@@ -251,9 +245,9 @@ class Projects extends Component {
                 >
                   <i className="fa fa-github" aria-hidden="true" /> Github
                 </Button>
-                <Button raised accent ripple style={{ margin: "0 10px" }}>
+                {/* <Button raised accent ripple style={{ margin: "0 10px" }}>
                   <i className="fa fa-desktop" aria-hidden="true" /> Live Demo
-                </Button>
+                </Button> */}
               </CardActions>
               <CardMenu style={{ color: "#fff" }}>
                 <IconButton name="share" />

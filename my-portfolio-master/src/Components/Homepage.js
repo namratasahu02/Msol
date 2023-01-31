@@ -18,7 +18,7 @@ class Homepage extends Component {
               <h1>React.js Developer</h1>
               <hr />
               <p>
-               React.js | javascript | HTML | CSS | BOOTSTRAP 
+               React.js | javascript | HTML5 | CSS | Bootstrap 
               </p>
               <div className="social-links">
                
